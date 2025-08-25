@@ -5,6 +5,6 @@ headshot: /assets/img/headshot.webp
 permalink: /about
 ---
 
-# Portfolio Jekyll Theme
+# Zhiyuan
 
 My name is Zhiyuan Zhao
